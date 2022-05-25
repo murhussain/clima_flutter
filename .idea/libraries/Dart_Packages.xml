@@ -30,6 +30,13 @@
             </list>
           </value>
         </entry>
+        <entry key="clima">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="clock">
           <value>
             <list>
@@ -261,6 +268,7 @@
       <root url="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter/lib" />
       <root url="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter_test/lib" />
       <root url="file://$USER_HOME$/snap/flutter/common/flutter/packages/flutter_web_plugins/lib" />
+      <root url="file://$PROJECT_DIR$/../lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
